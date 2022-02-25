@@ -5,7 +5,7 @@ Hello I’m Rafael Moura, graduated in Design for UGF, currently i work with fro
 
 ### My networks
 
-[![website](./img/twitter-light.png)](https://twitter.com/rafaelMouraDev)
+[![website](/img/twitter-light.png)](https://twitter.com/rafaelMouraDev)
 [![website](./img/twitter-dark.png)](https://twitter.com/rafaelMouraDev)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.png)](https://www.linkedin.com/in/rafaelmouradev/)
