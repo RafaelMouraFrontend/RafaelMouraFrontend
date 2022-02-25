@@ -5,21 +5,20 @@ Hello I’m Rafael Moura, graduated in Design for UGF, currently i work with fro
 
 ### My networks
 
-[![website](./img/twitter-light.svg)](https://twitter.com/rafaelMouraDev)
-[![website](./img/twitter-dark.svg)](https://twitter.com/rafaelMouraDev)
+[![website](./img/twitter-light.svg)](https://twitter.com/rafaelMouraDev#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/rafaelMouraDev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rafaelmouradev/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rafaelmouradev/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rafaelmouradev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rafaelmouradev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rafaelmoura.js/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rafaelmoura.js/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/rafaelmoura.js#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/rafaelmoura.js#gh-dark-mode-only)
 
 - 📗 My focus is Javascript, Reacd and Node
 - 🌱 2022 Goals: Learn more design pattern adn advcend javascript
 - 👨‍🎓 Undergraduate Student Sistemas de Comutação (UFF)
 - 🎬 My favorite movie: blade runner 2049 and Interstellar
 - 🎮 Playing The Witcher III
-
 
 
 
