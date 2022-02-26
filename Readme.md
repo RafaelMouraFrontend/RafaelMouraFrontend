@@ -1,6 +1,6 @@
 # Hello my friends! 👨‍💻
 
-Hello, I’m Rafael Moura. I graduated in Design for UGF and currently work with front-end developer. I always in search of knowledge, love watching series and movies. I'm from Rio - Brazil, but I don’t like so much beach 😁 
+Hello, I’m Rafael Moura. I graduated in Design for UGF and currently work with front-end developer. I always in search of knowledge, love watching series and movies. I'm from Rio - Brazil, but I don’t like so much beach. 😁 
 
 
 ### My networks
